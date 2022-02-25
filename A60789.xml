@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations upon the late act of the Parliament of Scotland, for constituting an Indian company In a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60789</idno>
+            <idno type="STC">Wing S4497</idno>
+            <idno type="STC">ESTC R218726</idno>
+            <idno type="EEBO-CITATION">99830297</idno>
+            <idno type="PROQUEST">99830297</idno>
+            <idno type="VID">34747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2020:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations upon the late act of the Parliament of Scotland, for constituting an Indian company In a letter to a friend.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:34747:1"/>
+            <head>Some Conſiderations upon the late ACT of the Parliament of SCOTLAND, for Conſtitu<g ref="char:EOLhyphen"/>ting an <hi>INDIAN COMPANY.</hi>
+            </head>
+            <head type="sub">In a LETTER to a Friend.</head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>YOUR laſt to me brought a Printed Act of the Parliament of <hi>Scotland,</hi> for Conſtituting an <hi>Indian</hi> Company in or for that Kingdom, toge<g ref="char:EOLhyphen"/>ther with your own Thoughts, and thoſe of ſome others upon it. In the firſt place, you ſay, That this Act conſiſts of ſuch Extravagant and unuſual Priviledges, as was never granted by any other Prince or State, and which are not only without a Precedent, but may hardly be imitated by any other Nation. And in the ſecond place, That this Act will in a particular man<g ref="char:EOLhyphen"/>ner be prejudicial to the Trade of <hi>England,</hi> ſince theſe vaſt Priviledges will en<g ref="char:EOLhyphen"/>able the <hi>Scots</hi> to under-ſell the <hi>Engliſh,</hi> and conſequently draw the Foreign Trade from hence.</p>
+            <p>For Remedy of which, you hope and wiſh that the enſuing Parliament may grant ſuch Priviledges, and Exemptions to our Companies of Trade in particular, and to the <hi>Engliſh</hi> Nation in general, as may be ſuitable and ſufficiently equivalent to thoſe granted in <hi>Scotland:</hi> And that you doubt not but they will likewiſe pro<g ref="char:EOLhyphen"/>hibit any of the Subjects of the Crown of <hi>England</hi> from being concerned, and uſe all other means to render this new Company ineffectual.</p>
+            <p>Though I have hitherto been, and am as far as others from wiſhing or ſeeking the Proſperity of any Country that may in the leaſt interfere with that of my own, yet cannot I forbear being of Opinion, that if the Government and Peo<g ref="char:EOLhyphen"/>ple of <hi>Scotland,</hi> or any other Nation in their condition, will in good Earneſt En<g ref="char:EOLhyphen"/>courage Foreign Trade, they ought to grant ſuch Piviledges as are contained in this Act, with ſome other very material Additions, which I find there omitted; however in the main the <hi>Scots</hi> are in the right, if by granting a few Prviledges, which coſt them nothing, they can introduce a brave and vigorous Conſtitution of Foreign Trade into their Country; and it is well for them, if the ſhort ſpace of One and Twenty Years, wherein the chief of their Priviledges conſiſts, prove ſufficient to entice and allure any conſiderable part of the Rich, Warm, and Fertil <hi>Indies,</hi> to the Poor, Cold, and Barren <hi>Scotland.</hi> Such as theſe and other large Priviledges were granted by the Mighty <hi>French</hi> King above Thirty Years ago, to a Company by him conſtituted with a larger Capital than any other in the Tra<g ref="char:EOLhyphen"/>ding World before it. To this Company he became obliged to furniſh Men of War and Convoys, not only in the places of <hi>Europe,</hi> but even to and from the <hi>Indies;</hi> and which is more, he depoſited a Fund of ſeveral Millions of Livres to bear the Company's Loſſes for the firſt Ten Years. Suitable to this, the King of <hi>Denmark</hi> and the Elector of <hi>Brandenburgh</hi> have granted Protections, Priviledges, and
+<pb n="2" facs="tcp:34747:2" rendition="simple:additions"/>Immunities to an <hi>Indian</hi> Trade, vaſtly beyond what <hi>Scotland</hi> is, or perhaps can be capable of: Yet were they ſo far from having the wiſhed for Succeſs, that we ſee them under a ſenſible Decline before they are come to any tolerable Growth or Maturity. So that upon the whole, I ſee no great cauſe of Umbrage to us from thoſe remote, cold, and doubtful Deſigns of the <hi>Scots,</hi> of which even the Succeſs can come to but little in the preſent Age. In the mean time we may elſewhere find ſufficient ſcope for all our Jealouſie, Anger, and Heat; for the <hi>Dutch</hi> do not only propoſe, but actually poſſeſs moſt of all the Foreign Trade of Chriſtendom, which they have gained upon us and other Nations, by pre<g ref="char:EOLhyphen"/>ſerving their Trade and Navigation free from Reſtraints and Impoſitions. The Powers and Priviledges granted to their <hi>Eaſt-India</hi> Company, hath brought them to a pitch of Greatneſs beyond whatever was of that kind in the World, who though they are but Subjects in <hi>Holland,</hi> yet are they one of the greateſt Soveraigns upon Earth in <hi>India.</hi> Thus if we look abroad, Experience will teach us, thoſe Priviledges are neither without a Precedent, nor inconſiſtent with Royal Majeſty, but are only ſuch as we and they, or any other People ought to grant, if we will in earneſt encourage Foreign Trade.</p>
+            <p>The Practice of <hi>France, Denmark,</hi> and other Princes and People, is ſuffici<g ref="char:EOLhyphen"/>ently convincing that a Company of Trade can never ſubſiſt by a little, un<g ref="char:EOLhyphen"/>ſteady, precarious ſort of Interloping; the Spirit of Piracy begins to haunt and infeſt the Trade of the Eaſtern World, and the Governments there will daily find more cauſe to ſuſpect ſuch for Pirates and Robbers, who have not Reſidence and Place, or places of Abode in <hi>India,</hi> whither they can have recourſe for re<g ref="char:EOLhyphen"/>paration in caſe of wrong. <hi>England, France, Holland,</hi> and the other Countries of <hi>Europe</hi> being too Remote and uncertain for them, the truth of which the two very laſt Interlopers experienced, who were both Arreſted in <hi>India,</hi> and had been made Prize by the Natives, if the Company had not interpoſed.</p>
+            <p>And in <hi>Africa</hi> and <hi>America</hi> it is ſtill worſe, for the Natives there are altoge<g ref="char:EOLhyphen"/>ther Barbarous; ſo that nothing but good Forts, convenient Situations, ſtrong Footing, and Numerous Inhabitants can ſupport and maintain Trade there: And were there no Oppoſition, it will of courſe be the work of an Age before any ſuch Settlement can be made. But what Oppoſition may this Company not ex<g ref="char:EOLhyphen"/>pect, ſince all the moſt conſiderable Nations of <hi>Europe</hi> have ſtrong and ſure Footing in the <hi>Indies,</hi> and drive their reſpective Trades excluſive of all others, all thoſe will look upon this new Comer with a Jealous Eye, and do their ut<g ref="char:EOLhyphen"/>moſt to nip all their Deſigns in the bud; <hi>France, Denmark, Brandenburgh,</hi> and others, have experienced this, and ſo may the <hi>Scots</hi> Company time enough to their Coſt; but all theſe Difficulties are ſtill the greater, ſince this Company will be conſidered as belonging to a Country, which, although it be a Soveraign State, yet hath neither Force nor Means to exerciſe Regular Acts of Soveraignty abroad; and the Naval and other Forces of <hi>England</hi> will hardly think themſelves concerned to promote and aſſiſt this Company, but rather the contrary.</p>
+            <p>But although there ſeems to me no great danger from this Cauſe, whatever there be from others, of which we ſeem leſs ſenſible, yet I ſhall come to your Remedies, which are two-fold: Firſt, you would have our Commercial Com<g ref="char:EOLhyphen"/>panies in particular, and the Trade of <hi>England</hi> in general, encouraged by Privi<g ref="char:EOLhyphen"/>ledges ſuitable to theſe contained in this Act of Parliament. And in the Second place, you would prohibit all <hi>Engliſh-men,</hi> or more properly ſpeaking, all the Sub<g ref="char:EOLhyphen"/>jects of the Crown of <hi>England,</hi> from being concerned in this new Company. For the firſt part of your Advice, whether it be called a Remedy, an Expedient, or what elſe you pleaſe, I think it ſhould have been long ſince done from other Motives than a <hi>Scotch</hi> Emulation; but better late than never, ſhould this prove the happy means to induce the Government and People of <hi>England,</hi> to take
+<pb n="3" facs="tcp:34747:2"/>off their unaccountable Impoſitions, Reſtraints, and Prohibitions upon Foreign Trade; ſhould this move us to encourage inſtead of depreſſing our Seamen and Navigation, and to give Priviledges to our Companies of Trade, ſuitable to thoſe of our Rival Neighbours, the <hi>Scots</hi> ſhould contibute more to our Safety, than the Geeſe did to that of the <hi>Roman</hi> Capitol. If this ſhould be done, we might reaſonably and ſafely enough, and as a ſuitable return, afford them as great a ſhare of Foreign Trade, and Improvements at home, as their Country is, or can be capable of, ſince we might thereby more than double that of our own.</p>
+            <p>But the laſt part of your Advice is of a quite contrary Nature, and would have a Train of as bad Conſequences, as the other would have of good; for this Deſign is now weak and uncertain: But ſhould the Government and People of <hi>England</hi> think it worth their Anger or Jealouſie, this would at once give it a Reputation in the World, and ſhould any thing relating thereto be reſtrained, or prohibited by the Government here, it would like a Fountain encloſed, break out with the greater Violence in other places; this would rouſe up, and awaken the Jealouſie of all the Rival Nations of <hi>Europe,</hi> and more Perſons and Intereſts would become engaged in a few Days, than otherwiſe would have been in many Years. Princes and Nations, who aſpire to Trade, would take the Wing; and private Perſons would be induced to think there were a great deal more in it than really is, or can poſſibly be, the weak and declining Intereſts and Conſtitu<g ref="char:EOLhyphen"/>tions of Foreign Trade in Chriſtendom would revive, and receive freſh Force and Vigour, which would probably occaſion ſuch a Combination, and Conſtitu<g ref="char:EOLhyphen"/>tion of Trade, as never was, nor perhaps could otherwiſe have been.</p>
+            <p>Thus the more than ordinary Fitneſs and Diſpoſition of the <hi>Scots</hi> to the Fru<g ref="char:EOLhyphen"/>gal part of Trade, would be rendered ſo far from being uſeful in Attracting, Di<g ref="char:EOLhyphen"/>viding, and Weakening the Deſigns and Qualifications of the Northern Crowns, and other Nations of <hi>Europe,</hi> who aſpire to Trade, as it otherwiſe might, that their Genius, with perhaps no ſmall part of our own, by being reſtrained and prohibited here, would Naturally vend it ſelf abroad, and ſo become Inſtrumen<g ref="char:EOLhyphen"/>tal to the Riſe and Enriching of ſome of our Aſſuming Neighbours; as the like Spirit of Reſtraints and Violence in <hi>Spain</hi> and <hi>Portugal,</hi> though doubtleſs quite contrary to the Intention thereof, proved the moſt effectual means that perhaps could well have been invented, of the Proſperity, Wealth, and Greatneſs of <hi>England, Holland,</hi> and others, as well as of their own Ruine, <hi>for Trade, like Religion, loves not force.</hi> Commonly the more rigid and ſevere ſuch kind of Reſtraints and Pro<g ref="char:EOLhyphen"/>hibitions are, the leſs they anſwer the propoſed Ends; things under ſuch Circum<g ref="char:EOLhyphen"/>ſtances uſually prove like the forbidden Fruit, they are coveted the more; and like Books ſuppreſt, they vend the better. If the <hi>Spaniards</hi> had allowed ſome of their Trade to the <hi>Indies,</hi> to others, they might have had a ſhare themſelves; but having excluded Strangers under no leſs pains than Death and Confiſcation, the Vigour, Spirit, and Subſtance of Trade is flown, and the Shadow and gilded Notion thereof only remains, which inſtead of being truly Profitable, is really Prejudi<g ref="char:EOLhyphen"/>cial to <hi>Spain.</hi> It would be good Diverſion for the <hi>Dutch,</hi> who are our Rivals, and the <hi>French,</hi> who are our Enemies, to ſee us and the <hi>Scotch</hi> come to a Miſun<g ref="char:EOLhyphen"/>derſtanding about ſuch a Chymera as this; for the <hi>Dutch</hi> to ſee the <hi>Engliſh</hi> and <hi>Scotch,</hi> like the Men of <hi>Gotham</hi> in the Story, at odds about the paſſage of Sheep over the Bridge before they have them, while our good Neighbhours the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> are actually driving them away. To be brief, our Dangers are not from <hi>Scotland,</hi> nor <hi>Scotchmen,</hi> but from other Perſons and Places; nor is the <hi>Scotch</hi> Act of Parliament any Cauſe, but only an Effect of the bad Conſtitution, and preſent ill Condition of our Foreign Trade.
+<pb n="4" facs="tcp:34747:3"/>But now I have told you what I think the <hi>Scots</hi> will hardly be able to do, unleſs they ſhould be further animated and enabled by Oppoſition from us, I ſhall go on to give you my Sentiments of what they ſeem to Deſign, or what may be practicable for them: And to me this Conſtitution of the <hi>Scots</hi> ſeems rather intended for a Company to entice and draw Foreign Merchants and Trade into their Country, than for any ſuch ſtupendious Deſigns, as are fancyed by ſome; and ſuitable to this you know the Parliament of <hi>Scotland</hi> have of late Years granted mighty Priviledges to all ſuch Perſons, by way of Company, or otherwiſe, as will in<g ref="char:EOLhyphen"/>troduce or Improve any profitable Art or Manufactory: And Foreign Trade be<g ref="char:EOLhyphen"/>ing the Life of all other Improvements, the preſent Circumſtances of their Country being incapable of that to any great purpoſe, they have been induced to ſettle a Company of Commerce for Strangers as well as others; to which Company, for the greater Ornament and Reputation thereof, they have given the Glorious Name of the <hi>INDIES:</hi> And conformable to this, I have it from good Hands, that the Original of this Deſign was not from <hi>Scotland,</hi> nor from hence, but altogether from Foreign Parts; and 'tis moſt likely that the Deſigns of this Company may be for ſhort runs, as to the Coaſts of <hi>Africa,</hi> the <hi>Canaries,</hi> the <hi>Streights,</hi> and other places, rather than to the <hi>Indies;</hi> which if ever they adventure upon, it's probable they will make Treaties of Com<g ref="char:EOLhyphen"/>merce with <hi>Denmark, Brandenburgh,</hi> and other Princes and People, who already have Poſſeſſions there, rather than attempt or expect any of their own; or they may make ſome Agreement with the <hi>Spaniards</hi> for or towards ſupplying them with Negroes. Theſe are ſome of the greateſt Myſteries I can find this new Company is, or probably can be capable of: And this ſeems conformable enough to their Actions, they having agreed upon a Stock of 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and ordered but one Quarter-part thereof to be paid upon the Subſcription, ſo that the remainder may either be called in, or remain a Foundation to the Com<g ref="char:EOLhyphen"/>pany, as need ſhall require: So that upon the whole this ſeems rather to be de<g ref="char:EOLhyphen"/>ſigned for a General Foundation for Foreign Commerce, or a ſort of Permiſſion Company, than any thing elſe. And in my Judgment we ought neither in Ju<g ref="char:EOLhyphen"/>ſtice nor Humanity to wiſh them otherwiſe than good Succeſs therein; but as to what you ſay, of how much an Union of theſe Kingdoms, both in Trade and Empire, would redound to their mutual Security, Force, Riches, and Glory, becomes not me, but the Politicians, and the reſpective Perſons more immediately concerned, to diſcuſs.</p>
+            <p>To conclude, I wiſh I could truly ſay, that the Minds and Humours of my Country-men were not variable and mutable like the Air they live in, and that they were not ſometimes like Giddy People, fancying every thing about them to be in Motion, when all the ſtir is only in and from their own Imagi<g ref="char:EOLhyphen"/>nations. Some Years ago People were in warm purſuit after Plate-wrecks, and when that failed, the ſame Humour had recourſe to Stock-Jobbing, and not<g ref="char:EOLhyphen"/>withſtanding the vaſt Loſſes and Diſappointments therein, no leſs than the whole Nation and the Legiſlative Power thereof, immediately fell headlong from thence into Lotteries, and from that Extremity we fell to another Exceſs, of Banking; and now all theſe proving either Abortive, or being at ſtand, the Humour in<g ref="char:EOLhyphen"/>clines to Interloping; and of this alſo, at the Coſt of ſome body or other, we are now in a fair way to be convinced.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 22. 1695.</date>
+               </dateline>
+               <signed>
+                  <hi>I am,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the YEAR 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
